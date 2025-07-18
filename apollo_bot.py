@@ -18,7 +18,7 @@ from bs4 import BeautifulSoup
 # === SETUP ===
 
 # Your bot token from BotFather
-TELEGRAM_TOKEN = "7607811446:AAErKu5I5YjA_3CXHRd-_Vp8ycj-W0NqfcY"
+TELEGRAM_TOKEN = "Make your own telegram bot by botfather"
 
 # The name of your Google Sheet and credentials file
 GOOGLE_SHEET_NAME = "apollo"
