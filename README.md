@@ -109,7 +109,7 @@ python apollo_bot.py
 ## 📸 Screenshots (Optional)
 
 _Add 1–2 screenshots of:_
-- ![Uploading WhatsApp Image 2025-07-18 at 19.00.40_4276c133.jpg…]()
+- ![WhatsApp Image 2025-07-18 at 19 00 40_18c47c88](https://github.com/user-attachments/assets/3119c337-6b38-408a-8982-24d8e9de9d15)
 - Telegra dummy bot reply
 
 - <img width="1693" height="232" alt="image" src="https://github.com/user-attachments/assets/ca536c30-7eda-4bce-b75a-53016b763e92" />
